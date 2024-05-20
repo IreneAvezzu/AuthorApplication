@@ -1,0 +1,40 @@
+Alan Turing
+AlanTuring.jpeg
+If a machine is expected to be infallible, it cannot also be intelligent.
+Machines take me by surprise with great frequency.
+Sometimes it is the people no one can imagine anything of who do the things no one can imagine.
+We can only see a short distance ahead, but we can see plenty there that needs to be done.
+Turing believes machines think, Turing lies with men, therefore machines do not think
+Those who can imagine anything, can create the impossible.
+The original question, 'Can machines think?' I believe to be too meaningless to deserve discussion.
+A very large part of space-time must be investigated, if reliable results are to be obtained.
+It is possible to invent a single machine which can be used to compute any computable sequence.
+A computer would deserve to be called intelligent if it could deceive a human into believing that it was human.
+One day ladies will take their computers for walks in the park and tell each other, "My little computer said such a funny thing this morning".
+It is not possible to produce a set of rules purporting to describe what a man should do in every conceivable set of circumstances.
+The works and customs of mankind do not seem to be very suitable material to which to apply scientific induction.
+I believe that this danger of the mathematician making mistakes is an unavoidable corollary of his power of sometimes hitting upon an entirely new method. This seems to be confirmed by the well known fact that the most reliable people will not usually hit upon really new methods.
+We are not interested in the fact that the brain has the consistency of cold porridge.
+We like to believe that Man is in some subtle way superior to the rest of creation. It is best if he can be shown to be necessarily superior, for then there is no danger of him losing his commanding position.
+I believe that at the end of the century the use of words and general educated opinion will have altered so much that one will be able to speak of machines thinking without expecting to be contradicted.
+A man provided with paper, pencil, and rubber, and subject to strict discipline, is in effect a universal machine.
+May not machines carry out something which ought to be described as thinking but which is very different from what a man does?
+The idea behind digital computers may be explained by saying that these machines are intended to carry out any operations which could be done by a human computer.
+Programming is a skill best acquired by practice and example rather than from books.
+Presumably the child-brain is something like a notebook as one buys it from the stationer's. Rather little mechanism, and lots of blank sheets.
+I propose to consider the question, 'Can machines think?
+Science is a differential equation. Religion is a boundary condition.
+I have had a dream indicating rather clearly that I am on the way to being hetero, though I don't accept it with much enthusiasm either awake or in the dreams.
+I'm afraid that the following syllogism may be used by some in the future.
+Instead of trying to produce a programme to simulate the adult mind, why not rather try to produce one which simulates the child's? If this were then subjected to an appropriate course of education one would obtain the adult brain.
+There is, however, one feature that I would like to suggest should be incorporated in the machines, and that is a 'random element.' Each machine should be supplied with a tape bearing a random series of figures.
+Up to a point, it is better to just let the snags [bugs] be there than to spend such time in design that there are none.
+Unless in communicating with it one says exactly what one means, trouble is bound to result.
+Codes are a puzzle. A game. Just like any other game.
+This is only a foretaste of what is to come, and only the shadow of what is going to be. We have to have some experience with the machine before we really know its capabilities.
+If a machine prints two kinds of symbols, of which the first kind (called figures) consists entirely of 0 and 1 (the others being called symbols of the second kind), then the machine will be called a computing machine.
+Mathematical reasoning may be regarded rather schematically as the exercise of a combination of two facilities, which we may call intuition and ingenuity.
+If one wants to make a machine mimic the behavior of the human-computer in some complex operation one has to ask him how it is done and then translate the answer into the form of an instruction table.
+For some purposes, we might use machines (choice... or c-machines) whose motion is only partially determined by the configuration... When such a machine reaches... ambiguous configurations, it cannot go on until some arbitrary choice has been made by an external operator.
+Instruction tables will have to be made up by mathematicians with computing experience and perhaps a certain puzzle-solving ability. There need be no real danger of it ever becoming a drudge, for any processes that are quite mechanical may be turned over to the machine itself.
+We may compare a man in the process of computing a real number to a machine which is only capable of a finite number of conditions q1, q2, ..., qK which will be called 'm-configurations.
